@@ -16,5 +16,5 @@ This is a basic parser i made that can read a file, parse it, and execute functi
  
 ##### To know :
  - Memory Adress is between 0 and 1024
- - One function per line
+ - One function per line.
  - I think that it.
